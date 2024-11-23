@@ -1,0 +1,22 @@
+Collecting stripe
+  Downloading stripe-11.2.0-py2.py3-none-any.whl.metadata (2.7 kB)
+Collecting requests>=2.20 (from stripe)
+  Using cached requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Requirement already satisfied: typing-extensions>=4.5.0 in c:\users\fatim\tired\django-ecommerce\env\lib\site-packages (from stripe) (4.12.2)
+Collecting charset-normalizer<4,>=2 (from requests>=2.20->stripe)
+  Using cached charset_normalizer-3.4.0-cp312-cp312-win_amd64.whl.metadata (34 kB)
+Collecting idna<4,>=2.5 (from requests>=2.20->stripe)
+  Using cached idna-3.10-py3-none-any.whl.metadata (10 kB)
+Collecting urllib3<3,>=1.21.1 (from requests>=2.20->stripe)
+  Using cached urllib3-2.2.3-py3-none-any.whl.metadata (6.5 kB)
+Collecting certifi>=2017.4.17 (from requests>=2.20->stripe)
+  Using cached certifi-2024.8.30-py3-none-any.whl.metadata (2.2 kB)
+Downloading stripe-11.2.0-py2.py3-none-any.whl (1.6 MB)
+   ---------------------------------------- 1.6/1.6 MB 252.8 kB/s eta 0:00:00
+Using cached requests-2.32.3-py3-none-any.whl (64 kB)
+Using cached certifi-2024.8.30-py3-none-any.whl (167 kB)
+Using cached charset_normalizer-3.4.0-cp312-cp312-win_amd64.whl (102 kB)
+Using cached idna-3.10-py3-none-any.whl (70 kB)
+Using cached urllib3-2.2.3-py3-none-any.whl (126 kB)
+Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests, stripe
+Successfully installed certifi-2024.8.30 charset-normalizer-3.4.0 idna-3.10 requests-2.32.3 stripe-11.2.0 urllib3-2.2.3

@@ -1,0 +1,6 @@
+Collecting python3-openid
+  Downloading python3_openid-3.2.0-py3-none-any.whl.metadata (1.6 kB)
+Requirement already satisfied: defusedxml in c:\users\fatim\tired\django-ecommerce\env\lib\site-packages (from python3-openid) (0.7.1)
+Downloading python3_openid-3.2.0-py3-none-any.whl (133 kB)
+Installing collected packages: python3-openid
+Successfully installed python3-openid-3.2.0
